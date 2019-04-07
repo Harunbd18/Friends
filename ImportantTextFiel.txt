@@ -1,0 +1,5 @@
+ All of u guys working in your own branch(branch name:as the name of method) not master.
+Sayem : addition method implement type all double.
+Selim : subtraction method implement type all double.
+Farhad : divition method implement type all double.
+Harun : multiplication method implement type all double.
